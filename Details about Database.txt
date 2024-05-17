@@ -1,0 +1,6 @@
+Details about Database:
+
+1.employeelm_apply_leaves.sql
+2.employeelm_users.sql
+When importing my database file consider the following 
+Here "employeelm" is the database name. And 'apply_leaves' and 'users' are the database table names.
